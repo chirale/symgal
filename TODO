@@ -1,0 +1,4 @@
+* Create a subprocess for GalleryBatch.run() to avoid application freeze.
+* *nix support
+* Create a downladable exe through "python pyinstaller.py symgal.py" checking 
+shared libraries licenses
